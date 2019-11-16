@@ -1,0 +1,20 @@
+Simulador de memoria cache
+
+alunos:Marcos Antonio, Mercia Costa, David Barboza, Caylon Solon, Flavio Sena.
+
+Alem da dedicação pessoal de cada membro da equipe, os alunos:Lucas dos Prazeres, Yasmin Costa
+e Andre Victor tiveram importante participação no desenvolvimento do projeto. Alem do Professor Paulo Sena
+que contribuiu positivamente tirando importantes duvidas.
+
+obs: A main.py está na pagina venv.
+
+obs2: O local do arquivo de ser incluido de forma completa para evitar erros.
+Ex:"C:\Users\Marcos\Documentos\simulador memoria cache\traces de teste\prob1.txt".
+
+Em função da falta de tempo, não foi possivel a implementação das politicas de escrita, mas seguem em anexo duas funçoes 
+pesquisadas e desenvolvidas pelos membros David Barboza e Flavio Sena que, possivelmente, podem resolver o problema.
+
+A equipe se destacou e se empenhou desde o inicio na pesquisa e desenvolvimento do projeto.
+
+Os resultados com informações mais detalhadas sobre o simulador constam no arquivo enviado em anexo.
+
