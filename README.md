@@ -1,7 +1,7 @@
 # cache
 Cache memory simulator project developed for computer architecture and organization 2019.4 - Federal University of Pará - Telecommunications Engineering
 
-O projeto usa traços de memoria como entradas e interage com o usuario acerca das configuraçes da memoria cacje a ser utilizada
+O projeto usa traços de memoria como entradas e interage com o usuario acerca das configuraçes da memoria cache a ser utilizada
 
 1- Escolha  o tamanho da memoria cache:
 
