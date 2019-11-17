@@ -19,7 +19,7 @@ alem disso, caso a politica seja associativo conjunto, sera necessario fornecer 
 
 3-Escolha a politica de substituição
 
-  1-RANDOM  2-FIFO
+     1-RANDOM  2-FIFO  
 
 4-Escolha a quantidade de conjuntos:
 
